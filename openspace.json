@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schema.openspace.dev/v1/site-config.json",
+  "siteId": "st_e5n7mryp0g",
+  "schemaVersion": 1,
+  "template": {
+    "id": "harbor",
+    "version": "1.0.0"
+  },
+  "hub": "https://hub.openspace.host",
+  "deploy": {
+    "target": "github-pages",
+    "url": "https://omniharmonic.github.io/benji-s-test-site/",
+    "customDomain": null
+  },
+  "features": {
+    "forms": true,
+    "newsletter": true,
+    "analytics": true,
+    "search": false
+  }
+}
