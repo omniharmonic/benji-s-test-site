@@ -385,6 +385,14 @@
     "frequencyDays": 7,
     "heading": "Letters from the studio",
     "body": "One short note a month: new dates, good reads, no spam.",
-    "newsletter": true
+    "newsletter": false,
+    "cta": {
+      "label": "Learn more",
+      "link": {
+        "type": "page",
+        "page": "pg_v4f7w3832h"
+      }
+    },
+    "colorTheme": "dark-accent"
   }
 }
