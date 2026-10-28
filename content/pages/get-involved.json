@@ -22,8 +22,8 @@
       "style": {
         "colorTheme": "light-accent",
         "padding": {
-          "d": "2xl",
-          "m": "xl"
+          "d": "xl",
+          "m": "lg"
         }
       },
       "blocks": [
@@ -93,7 +93,11 @@
         "gap": "2xl"
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "brand",
+        "padding": {
+          "d": "xl",
+          "m": "lg"
+        }
       },
       "blocks": [
         {
@@ -223,7 +227,11 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "dark-accent",
+        "padding": {
+          "d": "lg",
+          "m": "lg"
+        }
       },
       "blocks": [
         {
@@ -397,7 +405,7 @@
             "openFirst": false,
             "faqSchema": true
           },
-          "variant": "cards"
+          "variant": "minimal"
         },
         {
           "id": "blk_e3qx9nvkt7",

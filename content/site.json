@@ -2,6 +2,10 @@
   "$schema": "https://schema.openspace.dev/v1/site.json",
   "title": "Benji's Test Site",
   "tagline": "Neighbors keeping neighbors fed and home.",
+  "logo": {
+    "src": "media/2026/10/2026-06-29-01-06-39-5cb7a174.jpg",
+    "alt": "Benji's Test Site"
+  },
   "nav": [
     {
       "type": "page",
@@ -40,7 +44,7 @@
     }
   ],
   "header": {
-    "variant": "classic-left",
+    "variant": "minimal-burger",
     "sticky": true,
     "transparentOnHero": false,
     "mobileMenu": "slide",
@@ -67,7 +71,7 @@
       "gap": "lg"
     },
     "style": {
-      "colorTheme": "dark",
+      "colorTheme": "dark-accent",
       "padding": {
         "d": "xl",
         "m": "lg"

@@ -36,7 +36,7 @@
         "gap": "2xl"
       },
       "style": {
-        "colorTheme": "light",
+        "colorTheme": "light-accent",
         "padding": {
           "d": "xl",
           "m": "lg"
@@ -167,7 +167,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "light-accent"
       },
       "blocks": [
         {
@@ -347,7 +347,7 @@
         "gap": "xl"
       },
       "style": {
-        "colorTheme": "light-accent"
+        "colorTheme": "light"
       },
       "blocks": [
         {
@@ -469,7 +469,7 @@
         "gap": "2xl"
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "light-accent"
       },
       "blocks": [
         {
@@ -603,7 +603,7 @@
             "openFirst": true,
             "faqSchema": true
           },
-          "variant": "lines"
+          "variant": "minimal"
         }
       ]
     }

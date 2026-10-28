@@ -1,0 +1,19 @@
+{
+  "media/2026/10/2026-06-29-01-06-39-5cb7a174.jpg": {
+    "id": "med_phgf3fd6q7",
+    "path": "media/2026/10/2026-06-29-01-06-39-5cb7a174.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 39140,
+    "width": 640,
+    "height": 640,
+    "alt": "",
+    "focal": [
+      0.5,
+      0.5
+    ],
+    "placeholder": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAD0lEQVR4AQEEAPv/AA87SADvAJMuiZpGAAAAAElFTkSuQmCC",
+    "originalName": "2026-06-29 01.06.39.jpg",
+    "createdAt": "2026-10-28T01:45:13.330Z"
+  }
+}

@@ -20,10 +20,10 @@
         }
       },
       "style": {
-        "colorTheme": "light",
+        "colorTheme": "light-accent",
         "padding": {
-          "d": "2xl",
-          "m": "xl"
+          "d": "xl",
+          "m": "lg"
         }
       },
       "blocks": [
@@ -86,11 +86,7 @@
         "width": "narrow"
       },
       "style": {
-        "colorTheme": "light-accent",
-        "padding": {
-          "d": "xl",
-          "m": "lg"
-        }
+        "colorTheme": "light"
       },
       "blocks": [
         {
@@ -223,7 +219,7 @@
             ],
             "columns": "4"
           },
-          "variant": "grid"
+          "variant": "circles"
         }
       ]
     },
