@@ -345,7 +345,7 @@
     ]
   },
   "announcement": {
-    "enabled": true,
+    "enabled": false,
     "message": "Winter coat drive: drop off new or gently used coats at the pantry through December 19.",
     "link": {
       "type": "page",
@@ -377,5 +377,14 @@
     "analytics": true,
     "bookingUrl": null,
     "stripeConnected": false
+  },
+  "popup": {
+    "enabled": true,
+    "trigger": "exit-intent",
+    "delaySeconds": 8,
+    "frequencyDays": 7,
+    "heading": "Letters from the studio",
+    "body": "One short note a month: new dates, good reads, no spam.",
+    "newsletter": true
   }
 }
